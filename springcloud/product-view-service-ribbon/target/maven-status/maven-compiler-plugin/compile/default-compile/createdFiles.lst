@@ -1,0 +1,5 @@
+cn\how2j\springcloud\ProductViewServiceRibbonApplication.class
+cn\how2j\springcloud\web\ProductController.class
+cn\how2j\springcloud\client\ProductClientRibbon.class
+cn\how2j\springcloud\pojo\Product.class
+cn\how2j\springcloud\service\ProductService.class

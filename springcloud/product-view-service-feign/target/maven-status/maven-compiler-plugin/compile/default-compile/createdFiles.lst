@@ -1,0 +1,7 @@
+cn\how2j\springcloud\client\ProductClientFeign.class
+cn\how2j\springcloud\client\ProductClientFeignHystrix.class
+cn\how2j\springcloud\web\ProductController.class
+cn\how2j\springcloud\pojo\Product.class
+cn\how2j\springcloud\service\ProductService.class
+cn\how2j\springcloud\ProductViewServiceFeignApplication.class
+cn\how2j\springcloud\util\FreshConfigUtil.class

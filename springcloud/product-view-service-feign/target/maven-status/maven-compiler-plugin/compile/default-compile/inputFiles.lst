@@ -1,0 +1,7 @@
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\ProductViewServiceFeignApplication.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\web\ProductController.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\client\ProductClientFeignHystrix.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\pojo\Product.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\util\FreshConfigUtil.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\service\ProductService.java
+D:\workspace\aa\springcloud\product-view-service-feign\src\main\java\cn\how2j\springcloud\client\ProductClientFeign.java
